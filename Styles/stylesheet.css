@@ -1,0 +1,63 @@
+/*validated with W3*/
+  h1 {
+    color: green; /*green*/
+  }
+
+  p {
+    color: green;
+    font-family: verdana;
+    font-size: 125%
+  }
+
+  body {
+    background-color: white; /*white background*/
+  }
+  h1 {
+    color:white;
+    border-style: outset;
+    border-width: 6px;
+    border-color: black;
+    text-align: center;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+  }
+  h2 {
+    color:red;
+    border-style: outset;
+    border-width: 5px;
+    border-color: black;
+    text-align: right; /*alighn right*/
+  }
+  h3 {
+    color:green;
+    border-style: outset;
+    border-width: 4px;
+    border-color: black;
+    text-align: justify; /*justifiy*/
+  }
+  h4 {
+    color:orange;
+    border-style: outset;
+    border-width: 3px;
+    border-color: black;
+    text-align: center; /*center*/
+  }
+  h5 {
+    color:purple;
+    border-style: outset;
+    border-width: 2px;
+    border-color: black;
+    text-decoration: line-through; /*strike out*/
+  }
+  h6 {
+    color:black;
+    border-style: outset;
+    border-width: 1px;
+    border-color: black;
+    border-radius: 10px; /*radius applied to border*/
+  }
+  img {
+    border-style: dashed;
+    border-color: black;
+    border-width: 3px;
+    width: 25%
+  }
